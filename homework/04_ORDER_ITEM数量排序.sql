@@ -1,0 +1,1 @@
+select * from cap_cod.ORDER_ITEM order by Quantity;
